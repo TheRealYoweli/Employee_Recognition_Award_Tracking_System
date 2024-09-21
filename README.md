@@ -9,3 +9,5 @@ This project is based on an Employee Recognition Program I developed for a real-
 ## Technologies Used
 - Excel (Pivot Tables, Conditional Formatting)
 - Data Visualization
+
+[Download Employee Recognition Award Excel File](https://github.com/TheRealYoweli/Employee_Recognition_Award_Tracking_System/blob/main/Employee_Recognition_Program_Yoweli.xlsx)
