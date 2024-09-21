@@ -9,5 +9,3 @@ This project is based on an Employee Recognition Program I developed for a real-
 ## Technologies Used
 - Excel (Pivot Tables, Conditional Formatting)
 - Data Visualization
-
-https://drive.google.com/drive/folders/1oXSZR7MopENWXAUjdxClYyrKwUL2KOxT?usp=drive_link
